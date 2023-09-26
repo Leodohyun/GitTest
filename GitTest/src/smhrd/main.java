@@ -6,6 +6,7 @@ public class main {
 		// 소스 추가
 		System.out.println("A개발자가 소스 추가!!");
 		System.out.println("준혁 개발자가 소스 추가!");
+		System.out.println("정인 개발자가 소스 추가!");
 
 	}
 
